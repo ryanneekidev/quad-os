@@ -27,8 +27,7 @@ The core insight behind Quad is not that students need better individual tools, 
 
 ---
 
-> **Screenshot 1: Dashboard home page (desktop)**
-> *Full dashboard view showing the greeting, quick actions strip, and the four live Overview cards (Academic, Finance, Social, Marketplace) side by side. Sidebar is in its expanded state.*
+![Dashboard home page — desktop view with sidebar expanded, quick actions strip, and four live Overview cards](/screenshots/1.png)
 
 ---
 
@@ -44,14 +43,11 @@ The pillar also includes a **Resource Library**, a per-course store for PDFs, li
 
 ---
 
-> **Screenshot 2: Academic main page**
-> *Courses grid showing 3-4 course cards with grade percentages. The upcoming assignments list visible below, with urgency badges (red/amber/green).*
+![Academic main page — courses grid with grade percentages and upcoming assignments with urgency badges](/screenshots/2.png)
 
-> **Screenshot 3: AI Study Planner**
-> *The planner card with the hours-per-day slider set, and a generated day-by-day schedule shown below it with course names, assignment titles, hours, and focus tips per session.*
+![AI Study Planner — hours-per-day slider with a generated day-by-day schedule below](/screenshots/3.png)
 
-> **Screenshot 4: Flashcard review mode**
-> *A flashcard mid-flip or showing the answer side, with the confidence rating buttons (Again / Good / Easy) at the bottom.*
+![Flashcard review mode — card showing answer side with confidence rating buttons](/screenshots/8.png)
 
 ---
 
@@ -67,14 +63,11 @@ The **Bill Splitter** lets students create a shared expense, add participants fr
 
 ---
 
-> **Screenshot 5: Finance main page**
-> *Budget overview showing 4-5 category cards with progress bars at varying levels (one in amber, one in red). The income/expense stat chips visible at the top.*
+![Finance main page — budget category cards with progress bars and income/expense stat chips](/screenshots/5.png)
 
-> **Screenshot 6: AI Spending Insights**
-> *The spending insights section expanded, showing Claude's analysis text with a short paragraph and three bullet-point tips.*
+![AI Spending Insights — Claude's analysis with a summary paragraph and three student-specific tips](/screenshots/6.png)
 
-> **Screenshot 7: Scholarship finder**
-> *The scholarship list showing 3-4 matched scholarship cards with name, amount, deadline, and a deadline-alert badge on one that is closing soon.*
+![Scholarship finder — AI-matched scholarship cards with amounts, deadlines, and a closing-soon alert badge](/screenshots/7.png)
 
 ---
 
@@ -88,11 +81,9 @@ The **Study Session Board** lets students post a study session linked to one of 
 
 ---
 
-> **Screenshot 8: Social main page**
-> *The joined clubs strip at the top, then the two-column layout showing the events feed on the left and the study sessions preview on the right. An event card shows the "Split cost" button.*
+![Social main page — joined clubs strip, events feed and study sessions side by side, with a Split cost button visible](/screenshots/8.png)
 
-> **Screenshot 9: Club directory**
-> *The full club directory with the search bar, category filter pills, and a grid of club cards. The AI-suggested clubs section visible at the top.*
+![Club directory — search bar, category filter pills, and a grid of club cards with AI-suggested clubs at the top](/screenshots/9.png)
 
 ---
 
@@ -106,14 +97,11 @@ When a seller marks their listing as sold, an income transaction is automaticall
 
 ---
 
-> **Screenshot 10: Marketplace listings feed**
-> *The listings grid showing 6+ listing cards with images (or category emoji placeholders), prices, condition badges, and category tags. The search bar and category filter pills at the top.*
+![Marketplace listings feed — listing cards grid with prices, condition badges, category tags, search bar and filter pills](/screenshots/10.png)
 
-> **Screenshot 11: New listing form with AI price suggester**
-> *The new listing form with a title entered and the AI suggestion result shown: the min/max range and reasoning text displayed in the amber-tinted suggestion box.*
+![New listing form with AI price suggester — min/max range and reasoning text shown in the amber suggestion box](/screenshots/11.png)
 
-> **Screenshot 12: Listing detail with in-app chat**
-> *A listing's detail page showing the item image, title, price, badges, and below it the chat thread with a few messages exchanged between buyer and seller.*
+![Listing detail with in-app chat — item info with price and badges, and a live chat thread below](/screenshots/12.png)
 
 ---
 
@@ -130,11 +118,7 @@ The features above would make Quad a competent collection of tools. What makes i
 
 ---
 
-> **Screenshot 13: Cross-pillar: "Sell this" on a resource**
-> *The Academic resource library showing a resource card with the "Sell this" button highlighted at the bottom of the card.*
-
-> **Screenshot 14: Cross-pillar: Split cost on an event**
-> *A Social event card showing the event title, date, and the emerald "Split cost" button alongside the RSVP button.*
+![Cross-pillar: Split cost on an event — Social event card with the emerald Split cost button alongside the RSVP button](/screenshots/14.png)
 
 ---
 
@@ -144,8 +128,12 @@ Quad is designed to be used on a phone. The navigation collapses into a fixed bo
 
 ---
 
-> **Screenshot 15: Mobile view (two screens side by side)**
-> *Left: the dashboard home on a mobile screen (375px), showing the greeting, quick action pills scrolling horizontally, and the stacked Overview cards. Right: the bottom tab bar close-up showing the five navigation items with their accent colours.*
+<table>
+  <tr>
+    <td><img src="/screenshots/15.png" alt="Mobile dashboard — greeting, quick actions strip, and stacked Overview cards on a 375px screen" /></td>
+    <td><img src="/screenshots/16.png" alt="Mobile bottom tab bar — five navigation items with their pillar accent colours" /></td>
+  </tr>
+</table>
 
 ---
 
