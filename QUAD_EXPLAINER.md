@@ -27,7 +27,7 @@ The core insight behind Quad is not that students need better individual tools, 
 
 ---
 
-![Dashboard home page — desktop view with sidebar expanded, quick actions strip, and four live Overview cards](/screenshots/1.png)
+![Dashboard home page — desktop view with sidebar expanded, quick actions strip, and four live Overview cards](quad-os-next/public/screenshots/1.png)
 
 ---
 
@@ -43,11 +43,11 @@ The pillar also includes a **Resource Library**, a per-course store for PDFs, li
 
 ---
 
-![Academic main page — courses grid with grade percentages and upcoming assignments with urgency badges](/screenshots/2.png)
+![Academic main page — courses grid with grade percentages and upcoming assignments with urgency badges](quad-os-next/public/screenshots/2.png)
 
-![AI Study Planner — hours-per-day slider with a generated day-by-day schedule below](/screenshots/3.png)
+![AI Study Planner — hours-per-day slider with a generated day-by-day schedule below](quad-os-next/public/screenshots/3.png)
 
-![Flashcard review mode — card showing answer side with confidence rating buttons](/screenshots/8.png)
+![Flashcard review mode — card showing answer side with confidence rating buttons](quad-os-next/public/screenshots/8.png)
 
 ---
 
@@ -63,11 +63,11 @@ The **Bill Splitter** lets students create a shared expense, add participants fr
 
 ---
 
-![Finance main page — budget category cards with progress bars and income/expense stat chips](/screenshots/5.png)
+![Finance main page — budget category cards with progress bars and income/expense stat chips](quad-os-next/public/screenshots/5.png)
 
-![AI Spending Insights — Claude's analysis with a summary paragraph and three student-specific tips](/screenshots/6.png)
+![AI Spending Insights — Claude's analysis with a summary paragraph and three student-specific tips](quad-os-next/public/screenshots/6.png)
 
-![Scholarship finder — AI-matched scholarship cards with amounts, deadlines, and a closing-soon alert badge](/screenshots/7.png)
+![Scholarship finder — AI-matched scholarship cards with amounts, deadlines, and a closing-soon alert badge](quad-os-next/public/screenshots/7.png)
 
 ---
 
@@ -81,9 +81,9 @@ The **Study Session Board** lets students post a study session linked to one of 
 
 ---
 
-![Social main page — joined clubs strip, events feed and study sessions side by side, with a Split cost button visible](/screenshots/8.png)
+![Social main page — joined clubs strip, events feed and study sessions side by side, with a Split cost button visible](quad-os-next/public/screenshots/8.png)
 
-![Club directory — search bar, category filter pills, and a grid of club cards with AI-suggested clubs at the top](/screenshots/9.png)
+![Club directory — search bar, category filter pills, and a grid of club cards with AI-suggested clubs at the top](quad-os-next/public/screenshots/9.png)
 
 ---
 
@@ -97,11 +97,11 @@ When a seller marks their listing as sold, an income transaction is automaticall
 
 ---
 
-![Marketplace listings feed — listing cards grid with prices, condition badges, category tags, search bar and filter pills](/screenshots/10.png)
+![Marketplace listings feed — listing cards grid with prices, condition badges, category tags, search bar and filter pills](quad-os-next/public/screenshots/10.png)
 
-![New listing form with AI price suggester — min/max range and reasoning text shown in the amber suggestion box](/screenshots/11.png)
+![New listing form with AI price suggester — min/max range and reasoning text shown in the amber suggestion box](quad-os-next/public/screenshots/11.png)
 
-![Listing detail with in-app chat — item info with price and badges, and a live chat thread below](/screenshots/12.png)
+![Listing detail with in-app chat — item info with price and badges, and a live chat thread below](quad-os-next/public/screenshots/12.png)
 
 ---
 
@@ -118,7 +118,7 @@ The features above would make Quad a competent collection of tools. What makes i
 
 ---
 
-![Cross-pillar: Split cost on an event — Social event card with the emerald Split cost button alongside the RSVP button](/screenshots/14.png)
+![Cross-pillar: Split cost on an event — Social event card with the emerald Split cost button alongside the RSVP button](quad-os-next/public/screenshots/14.png)
 
 ---
 
@@ -130,8 +130,8 @@ Quad is designed to be used on a phone. The navigation collapses into a fixed bo
 
 <table>
   <tr>
-    <td><img src="/screenshots/15.png" alt="Mobile dashboard — greeting, quick actions strip, and stacked Overview cards on a 375px screen" /></td>
-    <td><img src="/screenshots/16.png" alt="Mobile bottom tab bar — five navigation items with their pillar accent colours" /></td>
+    <td><img src="quad-os-next/public/screenshots/15.png" alt="Mobile dashboard — greeting, quick actions strip, and stacked Overview cards on a 375px screen" /></td>
+    <td><img src="quad-os-next/public/screenshots/16.png" alt="Mobile bottom tab bar — five navigation items with their pillar accent colours" /></td>
   </tr>
 </table>
 
