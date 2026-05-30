@@ -5,7 +5,7 @@
 
 # Team members:
  - Rayan Mamhoud (F25040223)
- - Rayan Ait Rahhout (F25130312)
+ - Rayan Ait Rahhou (F25130312)
 
 > **Live deployment:** Quad is fully cloud-hosted and accessible at [https://quad-os.vercel.app](https://quad-os.vercel.app)
 >
