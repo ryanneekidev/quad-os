@@ -62,6 +62,11 @@ The pillars are not four separate apps. They are deeply woven together through A
 
 ## Getting Started
 
+### Cloud-deployed Option
+
+This project is already hosted on Vercel and Supabase and fully working.
+You can access it at [quad-os.vercel.app](https://quad-os.vercel.app)
+
 ### 1. Clone and install
 
 ```bash
