@@ -63,9 +63,9 @@ The **Bill Splitter** lets students create a shared expense, add participants fr
 
 ---
 
-![Finance main page — budget category cards with progress bars and income/expense stat chips](quad-os-next/public/screenshots/5.png)
+![Finance main page — budget category cards with progress bars and income/expense stat chips](quad-os-next/public/screenshots/sc5.png)
 
-![AI Spending Insights — Claude's analysis with a summary paragraph and three student-specific tips](quad-os-next/public/screenshots/6.png)
+![AI Spending Insights — Claude's analysis with a summary paragraph and three student-specific tips](quad-os-next/public/screenshots/sc6.png)
 
 ![Scholarship finder — AI-matched scholarship cards with amounts, deadlines, and a closing-soon alert badge](quad-os-next/public/screenshots/7.png)
 
