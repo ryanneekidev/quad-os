@@ -11,9 +11,7 @@ export default function SignupPage() {
     <div className="w-full max-w-sm space-y-6">
       {/* Logo + wordmark */}
       <div className="flex flex-col items-center gap-3">
-        <div className="w-14 h-14 rounded-2xl bg-foreground flex items-center justify-center shadow-lg shadow-black/10">
-          <span className="text-white font-black text-2xl leading-none">Q</span>
-        </div>
+        <img src="/logo.png" alt="Quad" className="w-14 h-14" />
         <div className="text-center">
           <h1 className="text-2xl font-black tracking-tight">Quad</h1>
           <p className="text-muted-foreground text-sm mt-0.5">Everything campus, one place.</p>

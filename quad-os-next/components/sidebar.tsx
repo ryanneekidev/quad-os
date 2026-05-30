@@ -68,9 +68,7 @@ export function Sidebar({ expanded, onToggle }: { expanded: boolean; onToggle: (
           {expanded ? (
             /* Expanded: logo + wordmark + collapse button */
             <div className="flex items-center gap-2.5 w-full px-3">
-              <div className="w-7 h-7 rounded-lg bg-gradient-to-br from-[#6366f1] to-[#f59e0b] flex items-center justify-center flex-shrink-0">
-                <span className="text-white font-black text-xs leading-none">Q</span>
-              </div>
+              <img src="/logo.png" alt="Quad" className="w-7 h-7 flex-shrink-0" />
               <span className="text-white font-bold text-base tracking-wide flex-1 whitespace-nowrap">
                 Quad
               </span>
@@ -83,15 +81,13 @@ export function Sidebar({ expanded, onToggle }: { expanded: boolean; onToggle: (
               </button>
             </div>
           ) : (
-            /* Collapsed: Q logo is the expand button */
+            /* Collapsed: logo is the expand button */
             <button
               onClick={onToggle}
               title="Expand sidebar"
               className="w-full h-full flex items-center justify-center hover:bg-white/5 transition-colors"
             >
-              <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-[#6366f1] to-[#f59e0b] flex items-center justify-center pointer-events-none">
-                <span className="text-white font-black text-sm leading-none">Q</span>
-              </div>
+              <img src="/logo.png" alt="Quad" className="w-8 h-8 pointer-events-none" />
             </button>
           )}
         </div>
