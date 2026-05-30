@@ -53,9 +53,9 @@ export default async function FlashcardsPage() {
       </div>
 
       <DeckList
-        decks={(decks ?? []) as Deck[]}
+        decks={(decks ?? []) as unknown as Deck[]}
         courses={(courses ?? []) as Course[]}
-        noteResources={(resources ?? []) as Resource[]}
+        noteResources={(resources ?? []) as unknown as Resource[]}
       />
     </div>
   )
